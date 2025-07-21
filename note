@@ -1,0 +1,40 @@
+# // go to ITP class
+# https://goedu.kmitl.ac.th/course/view.php?id=47536
+
+
+# x = expression 
+# = (assignment)
+# == (calculate)
+# type(x) # <class>
+# score = 43
+# print("score") # score = cosntant variable
+
+# help(round)
+
+
+# // nested if
+
+# radius  = float(input())
+
+
+# if radius > 0:
+#     area = 3.14*radius**2
+#     print(area)
+# else:
+#     if radius == 0:
+#         print("radius must not be zero")
+#     else:
+#         print("radius must be non-negative")
+
+
+# if radius > 0:
+#     area = 3.14*radius**2
+#     print(area)
+# elif radius < 0:
+#     print("Radius must be non -negative")
+# else:
+#     print("radius must not be zero")
+
+# \n = newline 
+
+
