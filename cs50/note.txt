@@ -1,0 +1,31 @@
+// Link of youtube
+https://youtu.be/qiR6ePI5u0w?si=-7uihsjZaOzIvHrc
+
+for read python code => .py 
+
+
+=> print()
+print("Hello, world")
+
+function 
+arguments
+side effects 
+input
+return values
+variables => value inside of the program
+comments => note to yourself in ur code for colleague or teacher #
+pseudocode => outline your program 
+str => str
+# print(*objects, sep= "", end="\n", file=sys.stdout,flush=false) => argument/documentation
+\n = new line (backslash new)
+sep = separate 
+parameter
+want to use "" in sentense use \" \" => print("hello, \"friend\"")
+use assigment in value => print(f"hello, {name}") f & {}
+use strip()
+    strip() 
+
+use split() => want to make split from charater
+
+capitalize from first letter
+title mean capital letter the first one

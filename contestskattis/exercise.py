@@ -54,3 +54,11 @@
 #     print(i,"Programming is fun")
 #     i += 1  // 9 time of programming is fun
 
+
+#count down 9 8 7 6 5
+
+# i = 10
+# while i<10:
+#     print(i,"Programming is fun")
+#     i = 10-i  # 9 time of programming is fun
+
