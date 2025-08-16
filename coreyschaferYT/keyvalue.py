@@ -1,7 +1,7 @@
 student = {'name':"Mark","major":"Finanical Engineering","age":18,'courses':['math','economics']}
 
 # print(student['name']) 
-# print(student['phont'])  #key error
+# print(student['phone'])  #key error
 # print(student.get('phone')) #None
 
 # student['phone'] = '095-034-2202'
@@ -18,16 +18,16 @@ student = {'name':"Mark","major":"Finanical Engineering","age":18,'courses':['ma
 # age = student.pop('age')
 
 # print(len(student)) #3
-# print(student.values())
 # print(student.items())
 # print(student.keys())
+# print(student.values())
 
 # for key in student:
-#     printi(key)
+#     print(key)
 
-for key in student.items():
-    print(key) # a pair of item
+# for key in student.items():
+#     print(key) # a pair of item
 
 
-for key , value in student.items():
-    print(key, value)  # sperate them
+# for key , value in student.items():
+#     print(key, value)  # sperate them
